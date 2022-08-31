@@ -1,12 +1,12 @@
+
 body{
     background-color: #7898d3;
     font-family:'roboto', sans-serlf;
 }
-  .signup.box{
+  .Sign{
       width: 250px;
       height: 600px;
-      margin: 0;
-      background-color: rgb(128, 78, 78);
+      margin: auto;
       border-radius: 3px;
  }
 
