@@ -1,6 +1,6 @@
 
 body{
-    background-color: #f3eeee;
+    background-color: #eee75a;
     font-family:'roboto', sans-serlf;
 }
   .Sign{
@@ -9,6 +9,12 @@ body{
       margin: auto;
       border-radius: 3px;
   }
+ 
+ 
+ h1{
+    text-align: center;
+    padding-top: 15px;
+ }
   
 
  h1{
@@ -57,16 +63,6 @@ body{
     color: white;
     font-size: 25px;
 } */
- form {
-    width: 360px;
-    height: 270px;
-    margin: auto;
-    background-color: rgb(123, 171, 59);
-    border-radius: 3px;
-}
-form lable{
-    width: 20px;
-    height: 30px;
-}
+ 
 
  
